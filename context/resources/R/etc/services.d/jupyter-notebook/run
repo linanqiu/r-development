@@ -1,0 +1,2 @@
+#!/usr/bin/with-contenv bash
+jupyter notebook --no-browser --ip 0.0.0.0 --allow-root --port 8888 /home/rstudio
